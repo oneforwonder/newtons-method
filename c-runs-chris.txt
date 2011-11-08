@@ -1,0 +1,59 @@
+//C newtons method runs
+
+christopher@christopher-desktop:~/Desktop$ gcc newtonsMethod.c -lrt -O3
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 513753
+Time elapsed: 0.513753 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 958222
+Time elapsed: 0.958222 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 499784
+Time elapsed: 0.499784 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 513753
+Time elapsed: 0.513753 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 555936
+Time elapsed: 0.555936 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 499505
+Time elapsed: 0.499505 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 513753
+Time elapsed: 0.513753 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 499784
+Time elapsed: 0.499784 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 499784
+Time elapsed: 0.499784 miliseconds
+christopher@christopher-desktop:~/Desktop$ ./a.out 
+newtonsMethod
+nsec elapsed: 499785
+Time elapsed: 0.499785 miliseconds
+christopher@christopher-desktop:~/Desktop$ 
+
+
+Average run time in miliseconds:
+0.513753 + \
+0.958222 + \
+0.499784 + \
+0.513753 + \
+0.555936 + \
+0.499505 + \
+0.513753 + \
+0.499784 + \
+0.499784 + \
+0.499785
+= 5.5540590000000005
+

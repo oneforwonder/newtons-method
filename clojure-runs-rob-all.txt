@@ -1,0 +1,17 @@
+Original
+"Elapsed time: 15295.475426 msecs"
+
+Recur
+"Elapsed time: 14811.678498 msecs"
+
+Global variables
+"Elapsed time: 113.533577 msecs"
+
+Higher-order function
+"Elapsed time: 14794.294091 msecs"
+
+Higher order function and type hints
+"Elapsed time: 96.807981 msecs"
+
+Higher order function, type hints and JIT
+"Elapsed time: 72.286281 msecs"

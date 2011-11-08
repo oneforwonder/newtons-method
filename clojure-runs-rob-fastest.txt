@@ -1,0 +1,11 @@
+Higher order function, type hints and JIT
+Elapsed time: 71.262765 msecs
+Elapsed time: 71.11198 msecs
+Elapsed time: 70.93765 msecs
+Elapsed time: 71.217361 msecs
+Elapsed time: 71.046891 msecs
+Elapsed time: 71.986105 msecs
+Elapsed time: 71.101429 msecs
+Elapsed time: 71.092143 msecs
+Elapsed time: 70.906783 msecs
+Elapsed time: 71.1485 msecs

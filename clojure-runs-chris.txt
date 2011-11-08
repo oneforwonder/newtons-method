@@ -1,0 +1,52 @@
+//Clojure newtons method runs
+
+christopher@christopher-desktop:~/Desktop$ clj
+Clojure 1.2.0-master-SNAPSHOT
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 1459.7386 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 484.079401 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 416.405438 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 442.641733 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 423.897729 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 572.025215 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 422.004751 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 436.723102 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 408.461411 msecs"
+#'user/l
+user=> (load-file "newtonsMethod.clj")
+"Elapsed time: 515.329182 msecs"
+#'user/l
+user=> 
+
+
+Average run time in miliseconds:
+1459.7386 + \
+484.079401 + \
+416.405438 + \
+442.641733 + \
+423.897729 + \
+572.025215 + \
+422.004751 + \
+436.723102 + \
+408.461411 + \
+515.329182
+
+= 4121.5679619999992
+
+
