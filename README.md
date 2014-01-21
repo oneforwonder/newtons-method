@@ -33,11 +33,9 @@ times.
 The initial versions of the programs, created by Chris, written particular
 regard to speed, found that Clojure was indeed dramtically slower by default. 
 
-Code: newton-chris.c, newton-chris.clj
-
-Run timings: c-runs-chris.txt, clojure-runs-chris.txt
-
-Results: C (~0.5ms) vs Clojure (~500ms), Clojure:C ~1000:1
+* Code: newton-chris.c, newton-chris.clj
+* Run timings: c-runs-chris.txt, clojure-runs-chris.txt
+* Results: C (~0.5ms) vs Clojure (~500ms), Clojure:C ~1000:1
 
 Holy CPU caches, Batman! That's a huge difference. Without optimization,
 Clojure is indeed much slower at a mathematical task like this one!
@@ -50,11 +48,9 @@ But the story doesn't end there. (Rob wouldn't allow it to end there.)
 Clojure has multiple techniques available to it to dramatically improve
 its execution speed. These are applied step-by-step in newton-rob-all.clj
 
-Code: newton-rob.c, newton-rob-fastest.clj
-
-Run timings: c-runs-rob.txt, clojure-runs-fastest.clj
-
-Results: C (~50ms) vs Clojure (~70ms), Clojure:C ~1.2:1
+* Code: newton-rob.c, newton-rob-fastest.clj
+* Run timings: c-runs-rob.txt, clojure-runs-fastest.clj
+* Results: C (~50ms) vs Clojure (~70ms), Clojure:C ~1.2:1
 
 Well, that's a lot closer! With all optimizations applied Clojure appears to
 get surprisingly close to C's speed.
@@ -69,5 +65,3 @@ So, then, does Clojure offer one of the best combinations of (potential)
 development and execution speeds?
 That's ultimately a matter of opinion, but the bevy of Clojure projects
 on my Github profile will tell you where I come down on that issue ;)
-
-  - Rob
