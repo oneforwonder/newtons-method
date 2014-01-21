@@ -8,7 +8,7 @@ Chris, primarily from a game development background, favored staticly-typed
 languages like C and C++ because of the execution speed they provided.
 
 Rob, primarily from a web application background, favored dynamically-typed
-languages like Python and Clojure because of development speed it allowed.
+languages like Python and Clojure because of development speed they allowed.
 
 
 ## The Question ##
